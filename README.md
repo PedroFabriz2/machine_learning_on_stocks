@@ -12,6 +12,11 @@ numpy module to convert data to numpy arrays, which is what Scikit-learn wants.
 Preprocessing is the module used to do some cleaning/scaling of data prior to machine learning, and model_selection is used in the testing stages.
 LinearRegression algorithm as well as svm from Scikit-learn, which we'll be using as our machine learning algorithms to demonstrate results.
 
+## Results
+#### results Disney Stocks
+<img src="Disney/plot2.png" />
+
+
 ## important links
 [choosing the right classifier scikit.learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
