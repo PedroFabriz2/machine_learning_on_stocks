@@ -13,8 +13,13 @@ Preprocessing is the module used to do some cleaning/scaling of data prior to ma
 LinearRegression algorithm as well as svm from Scikit-learn, which we'll be using as our machine learning algorithms to demonstrate results.
 
 ## Results
+comparing line is what happened in real life
+
 #### results Disney Stocks
 <img src="Disney/plot2.png" />
+
+#### results Microsoft Stocks
+<img src="Microsoft/plot1.png" />
 
 
 ## important links
